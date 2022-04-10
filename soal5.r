@@ -1,3 +1,4 @@
+par(mfrow = c(2,2))
 #NOMOR 5A
 dexp(3)
 

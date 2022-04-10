@@ -13,7 +13,6 @@ Mean_geom
 
 #NOMOR 1D
 
-
 #NOMOR 1E
 rataan <- 1/0.2
 varian <- (1-0.2)/(0.2*0.2)
